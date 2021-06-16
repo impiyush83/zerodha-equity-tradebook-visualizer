@@ -1,0 +1,2 @@
+matplotlib==3.4.2
+openpyxl==3.0.7
